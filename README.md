@@ -1,4 +1,5 @@
 # Prodigy-ML-Task_4
+LinkedIn Link:-https://www.linkedin.com/feed/update/urn:li:activity:7213153245450371072/
 Hand Gesture Recognition Model:
 This repository contains code for a hand gesture recognition model that can accurately identify and classify different hand gestures from image or video data. This enables intuitive human-computer interaction and gesture-based control systems.
 
