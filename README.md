@@ -16,3 +16,12 @@ Python (version >= 3.6)
 TensorFlow (version >= 2.0)
 OpenCV (for handling video input)
 NumPy (for numerical operations)
+
+Model Architecture:
+Describe your model architecture here, including details such as layers, activation functions, and any special considerations.
+
+Dataset:
+Describe the dataset used for training, including the number of classes, total number of samples, and any preprocessing steps applied.
+
+Results:
+Include information about the performance metrics achieved by your model, such as accuracy, precision, recall, and any relevant visualizations (confusion matrix, etc.).
